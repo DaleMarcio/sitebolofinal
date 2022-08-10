@@ -8,6 +8,7 @@ strong {
 
 h1 {
   text-align: center;
+  color: #6495ED;
 }
 
 h2 {
@@ -25,10 +26,6 @@ ul strong {
 li {
   font-family: monospace;
   color: #7B68EE;
-}
-
-h3 {
-  text-align: center; color: #00FA9A;
 }
 
 p {
