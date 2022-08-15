@@ -1,6 +1,9 @@
 header {
   width: 100%;
-  background-color: #87CEEB;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;order-box
+  color: #87CEEB;
 }
 
 body {
