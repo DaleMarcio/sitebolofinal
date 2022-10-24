@@ -69,6 +69,13 @@ main ul{
     border-radius: 10px;
 }
 
+h5 {
+  text-align: center;
+  font-size: 23px;
+  font-family: cursive;
+  color: orange;
+}
+
 .produtos li {
   display: inline-block;
   text-align: center;
