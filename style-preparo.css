@@ -42,7 +42,7 @@ nav {
 
 nav a {
   text-transform: uppercase;
-  color: black;
+  color: #F0E68C;
   font-weight: bold;
   font-size: 24px;
   text-decoration: none;
@@ -54,7 +54,7 @@ h3 {
 }
 
 nav a:hover {
-  color: #6495ED;
+  color: orange;
   text-decoration: underline;
 }
 
