@@ -13,6 +13,15 @@ body {
   margin: 0 auto;
 }
 
+.borda {
+  border: 10px;
+  border-color: orange;
+  border-style: solid;
+  border-radius: 10px;
+  margin: 30px;
+  background: #ADD8E6;
+}
+
 strong {
   color: #836FFF;
   font-weight: bold;
@@ -136,6 +145,13 @@ main ul {
 }
 
 footer img {
-  width: 100%;
-  height: 350px;
+  width: 700px;
+  height: 250px;
+}
+
+h6 {
+  font-size: 60px;
+  color: orange;
+  font-family: cursive;
+  margin: 0 30px 30px 30px;
 }
